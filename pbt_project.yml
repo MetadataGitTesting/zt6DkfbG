@@ -1,0 +1,59 @@
+name: alphonse.bartell
+description: core
+version: 2.6.287
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: alphonsebartell
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-24 20:30:06'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-24 20:30:06'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlBusinessApps: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-24T20:30:06.356308Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1079133919'
+  createdAt: '2025-02-24T20:30:06.356308Z'
+  type: plibMaven
+projectDependencies:
+  '392':
+    projectUID: 392
+    projectName: shanti.nitzsche
+    repositoryPath: gitUri=http://gitserver:3000/dev_wEhywAdg_team_667/dev_wEhywAdg_project_392.git&subPath=
+    version: shanti.nitzsche/2.0.243
+    isDefault: false
+    author: null
+    createdAt: '2025-02-24 20:30:04'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
